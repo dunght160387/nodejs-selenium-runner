@@ -10,7 +10,7 @@
     "url": "git+https://github.com/dunght160387/nodejs-selenium-runner.git"
   },
   "scripts": {
-    "test": "test"
+    "test": "mocha --timeout 150000 --slow 5000"
   },
   "dependencies": {
     "freeport": "1.0.x",
