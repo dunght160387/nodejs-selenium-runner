@@ -39,4 +39,4 @@ npm test
 ```
 
 ---
-Many thanks to dadku.
+Many thanks to daaku.
