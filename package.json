@@ -1,0 +1,25 @@
+{
+  "name": "selenium-runner",
+  "description": "A library to download and launch the Selenium Server. Rewrite https://github.com/daaku/nodejs-selenium-launcher, supported run on defined port.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dunght160387/nodejs-selenium-runner",
+  "author": "Ha The Dzung <dunght1603@gmail.com>",
+  "main": "lib/selenium-runner",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dunght160387/nodejs-selenium-runner"
+  },
+  "scripts": {
+    "test": "mocha --timeout 150000 --slow 5000"
+  },
+  "dependencies": {
+    "freeport": "1.0.x",
+    "request": "2.9.x",
+    "hash_file": "0.0.x"
+  },
+  "devDependencies": {
+    "mocha": "1.x.x",
+    "portscanner": "^1.0.0",
+    "soda": "0.2.x"
+  }
+}

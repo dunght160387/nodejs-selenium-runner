@@ -1,0 +1,6 @@
+/.tags
+/lib-cov/
+/lib/selenium-server-standalone-*.jar
+/node_modules/
+/npm-debug.log
+.idea/
