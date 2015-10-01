@@ -15,7 +15,6 @@
   "dependencies": {
     "freeport": "1.0.x",
     "request": "2.9.x",
-    "hash_file": "0.0.x",
     "portscanner": "^1.0.0"
   },
   "devDependencies": {
