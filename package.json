@@ -1,7 +1,7 @@
 {
   "name": "nodejs-selenium-runner",
   "description": "A library to download and launch the Selenium Server. Rewrite [https://github.com/daaku/nodejs-selenium-launcher](https://github.com/daaku/nodejs-selenium-launcher), supported run on defined port.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "homepage": "https://github.com/dunght160387/nodejs-selenium-runner#readme",
   "author": "Ha The Dzung <dunght1603@gmail.com> (https://github.com/dunght160387/)",
   "main": "lib/selenium-runner",
